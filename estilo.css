@@ -1,0 +1,40 @@
+.jumbotron {
+  flex-direction: column;
+  align-items: center;
+}
+.lead {
+  margin-top: 30px;
+}
+.contenedorCentral {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logoImagen {
+  height: 90px;
+
+}
+.resultado {
+  margin-top: 30px;
+   font-family: sans-serif;
+  font-size: medium;
+  color: rgb(10, 10, 49);
+}
+
+.contenedorResultado{
+  background-color: rgb(248, 248, 248);
+  padding: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.formularioEstilo{
+  display: flex;
+  flex-direction: column;
+}
+.enlaceAyuda {
+  font-weight: bold;
+
+}
+.informacionExtra {
+  margin-top: 40px;
+}
